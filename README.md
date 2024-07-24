@@ -1,1 +1,4 @@
-# Plinor-Test
+#
+Для старта приложения запустить npm run start
+# 
+Ссылка на апликацию http://localhost:8090/

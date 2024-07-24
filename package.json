@@ -1,0 +1,52 @@
+{
+  "name": "Plinor",
+  "version": "1.0",
+  "description": "",
+  "bootstrapVersion": 3,
+  "styleLoaders": [],
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack --mode development",
+    "production": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olexanna/Plinor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olexanna/Plinor-Test.git"
+  },
+  "homepage": "https://github.com/olexanna/Plinor-Test.git",
+  "files": [
+    "package.json",
+    "tsconfig.json",
+    "release/*"
+  ],
+  "keywords": [],
+  "author": "olexanna",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "css-loader": "^6.8.1",
+    "html-webpack-plugin": "^5.5.3",
+    "node-sass": "^9.0.0",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.2.1",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.1.6",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^4.15.1"
+  }
+}
