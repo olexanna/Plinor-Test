@@ -15,10 +15,8 @@
     "type": "git",
     "url": "git+https://github.com/olexanna/Plinor-Test.git"
   },
-  "author": "",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olexanna/Plinor-Test.git"
+    "url": "https://github.com/olexanna/Plinor-Test/issues"
   },
   "homepage": "https://github.com/olexanna/Plinor-Test.git",
   "files": [
